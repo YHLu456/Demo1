@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "Demo1",
+  "description": "搭建客户端小程序",
+  "appid": "wx7df1c0a5e826be11",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}

@@ -1,0 +1,25 @@
+{
+	"miniprogramRoot": "dist/",
+	"projectname": "Demo1",
+	"description": "搭建客户端小程序",
+	"appid": "wx7df1c0a5e826be11",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"enhance": false,
+		"compileHotReLoad": false,
+		"postcss": false,
+		"preloadBackgroundData": false,
+		"minified": false,
+		"newFeature": true,
+		"autoAudits": false,
+		"coverView": true,
+		"showShadowRootInWxmlPanel": false,
+		"scopeDataCheck": false,
+		"useCompilerModule": false
+	},
+	"compileType": "miniprogram",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {}
+}
